@@ -1,4 +1,4 @@
-# ic2s2_intro_networks_science_tutorial
+# Introduction to networks science: tutorial
 
 Material for the Tutorial Introduction to Netwok Science.
 Prerequisite: Python, Matplotlib, networkX, python-igraph
