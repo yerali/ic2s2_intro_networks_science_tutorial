@@ -20,3 +20,5 @@ Latest edition:
 - Temporal networks: Why? Some temporal centrality measures.
 - Second-order metrics: What are they about?
 - Multilayers networks
+
+<CENTER><H2>  <font size="5">     <font color="grey">   Material for the workshop can be downloaded at ... <a href="https://github.com/yerali/ic2s2_intro_networks_science_tutorial"> Repo: </a>   <p>   </font> </font> </H2>  </CENTER>
